@@ -1,0 +1,3 @@
+Gorathagrath,Cragurath,Durnlorath,Ildtal,Zorfroth,Nysstaril,Uririn,Thaznylor,Braedren,Aelithpyr
+
+L7,R9,L3,R5,L1,R8,L2,R1,L2,R7,L1

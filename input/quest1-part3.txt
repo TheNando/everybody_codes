@@ -1,0 +1,3 @@
+Sylrovan,Jarisis,Nyther,Karthoth,Zynirin,Zyrgryph,Elaradar,Dreleldrin,Elvarwyris,Gaeroryx,Zaldin,Lazhal,Urakadar,Kynaxis,Galfal,Orahxal,Malcoryx,Sorgonn,Oryoryn,Caelcion,Urfyr,Zyrixvel,Qaladar,Calluth,Drakralis,Tharilthys,Kaleth,Luthzor,Sylgnaris,Wynfyr
+
+L46,R11,L17,R29,L22,R43,L46,R38,L21,R25,L30,R37,L6,R14,L43,R22,L13,R37,L18,R21,L5,R19,L5,R9,L5,R28,L5,R33,L5,R35,L5,R49,L5,R13,L5,R33,L5,R15,L5,R13,L28,R18,L47,R34,L35,R30,L20,R14,L25,R17,L39,R41,L8,R22,L46,R40,L37,R34,L5

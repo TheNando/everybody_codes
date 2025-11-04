@@ -1,0 +1,3 @@
+Pyrzrak,Paldkyris,Ozaneldrith,Sarnulrix,Nythgalor,Balnarel,Zyrimar,Ildzris,Vaelix,Jarquin,Glynnaxar,Cynvarjor,Brynoris,Cyndercyth,Rythanzris,Zalmir,Varinsarix,Irynzorin,Nythralis,Xarjor
+
+L18,R12,L18,R12,L8,R14,L19,R13,L8,R14,L5,R13,L5,R5,L5,R17,L5,R6,L5,R11,L18,R14,L14,R13,L16,R10,L6,R14,L12
